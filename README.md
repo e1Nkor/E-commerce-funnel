@@ -11,10 +11,10 @@
 - SQL for data manipulation
 - Tableau for creating reports
 
-### Resuls/Findings
-1. Couple noticable drops of conversion rate, at the beginning, from start of the session to product view(-79%), then from product view to add to cart (-80%) and from checkout to purchase (-56%).
-2. There is a periodicity in number of visitors and conversion rate through the weeks. Number of users and conversion rate rise at the beginning of the week (monday) and fall at the weekends (saturday, sunday).
+### Results/Findings
+1.A couple of noticeable drops in the conversion rate: first, from the start of the session to product view (-79%); second, from product view to add to cart (-80%); and finally, from checkout to purchase (-56%).
+2.There is a weekly pattern in both the number of visitors and the conversion rate. The number of users and the conversion rate increase at the beginning of the week (Monday) and decline during the weekend (Saturday and Sunday).
 
 ### Recomendation
-1. Revise seo optimization strategy, because most of the traffic comes from organic source, drop of conversion rate at first interaction suggests that expectations of visitors don't meet the reality.
-2. UX tests, confusing structure of a website also can be a reason of conversion drop.
+1.Revise the SEO optimization strategy. Since most traffic comes from organic sources, the initial drop in the conversion rate suggests that visitors’ expectations do not match the actual website experience.
+2.Conduct UX testing. A confusing website structure could also be a reason for the drop in conversions.
