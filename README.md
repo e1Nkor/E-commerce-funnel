@@ -5,7 +5,7 @@
 ### Content
 - [Dataset](https://console.cloud.google.com/bigquery?ws=!1m5!1m4!4m3!1smodern-mystery-435112-u2!2sStudy_project!3sevents_20210131)
 - [SQL code](https://console.cloud.google.com/bigquery?sq=537334118950:44968112ec7c407d84725646f94167d0)
-- [Tableua dashboard](https://public.tableau.com/app/profile/nikita.korytnyi/viz/Personalproject_17517194963680/Ecommercefunnel) 
+- [Tableau dashboard](https://public.tableau.com/app/profile/nikita.korytnyi/viz/Personalproject_17517194963680/Ecommercefunnel) 
 
 ### Tools
 - SQL for data manipulation
